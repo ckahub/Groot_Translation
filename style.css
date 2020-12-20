@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Maitree&display=swap');
+
+
+textarea {
+    width: 30%;
+    height: 15vh;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    border: 1px solid black;
+    font-size: large;
+}
+
+#output {
+    width: 30%;
+    height: 15vh;
+    display: block;
+    margin: auto;
+    padding: -50rem;
+    border: 1px solid black;
+    font-size: large;
+    background-color: white;
+}
+
+
+
+
+body {
+    background-color:white;
+    font-family:'Maitree', serif;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+
+}
+
+h1 {
+    color: whit;
+    font-weight: bold;
+    padding-right: 5%;
+    font-size: xx-large;
+    text-align: center;
+    margin:auto;
+    background-color:#7ddd75; 
+  
+}
+
+h2 {
+   
+    font-weight: bold;
+    font-size: larger;  
+}
+
+h3 {
+    color:  #dbe0d8;
+}
+
+
+#text{
+    margin: auto;
+    display: block;
+    width: 90%;
+    text-align: center;
+    font-size: larger;
+    color: black;
+}
+
+#output {
+    margin: auto;
+    display: block;
+    max-width: 1000px;
+    padding: 15px 32px;
+    display: block;
+    margin-top: 1rem;
+    border: 1px solid black;
+    background-color: white;
+    font-size: large;
+}
+
+.container {
+    max-width: 100px;
+    margin: auto;
+    padding: 20px 40px;
+}
+
+.userinput {
+    margin: auto;
+    display: block;
+    max-width: 1500px;
+    padding: 15px 32px;
+    display: block;
+    margin-top: 1rem;
+    font-size: large;
+}
+
+element.style {
+    font-size: medium;
+}
+
+footer p {
+    max-width: var(--width-break);
+    margin: auto;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+p {
+    display: block;
+    padding: 1rem;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+footer {
+    color:  #dbe0d8;;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    background-color:#7ddd75;
+    text-align: center;
+}
